@@ -10,10 +10,11 @@ Under the class of Dr. William Rey
 ### G++ Compile Instructions for Windows:
 - Run the G++ compile command with the following syntax `g++ file_to_compile.cpp -o output_exe`
 - Example: `g++ MP02_Araullo_EEA.cpp -o MP02_Araullo_EEA`<br/>
-Or you can make your own "Compile" batch file `compile.bat` as I did and add the following lines of code inside the .bat file
+Or you can make your own "Compile" batch file `compile.bat` as I did and add the following lines of code inside the .bat file, with the filename as your preferred filename.
 ```
 @ECHO ON
-g++ MP02_Araullo_EEA.cpp -o MP02_Araullo_EEA
-MP02_Araullo_EEA
+set filename=MP01_Araullo_EEA
+g++ %filename%.cpp -o %filename%
+%filename%.exe
 cmd /k
 ```
