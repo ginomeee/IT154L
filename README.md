@@ -2,6 +2,11 @@
 ***
 Under the class of Dr. William Rey
 
+### *Updated* Prerequisites for Windows:
+- Dev-C++
+
+
+## The section below is deprecated. It has a tendency not to work on Windows installs without the proper DLL.
 ### Prerequisites for Windows:
 - Install the [g++ compiler](https://sourceforge.net/projects/mingw/) or any compiler that can compile C++
 - Any editor / IDE. I personally use [Atom](https://atom.io/).
