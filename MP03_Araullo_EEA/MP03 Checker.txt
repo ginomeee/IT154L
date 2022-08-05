@@ -1,0 +1,72 @@
+4
+0 2 4 5
+7 4 1 4
+1 2 3 4
+1 2 2 1
+4
+3
+﻿﻿
+﻿
+
+
+Programmed by: Eugenio Emmanuel A. Araullo 
+MP03 - MULTILEVEL QUEUE ALGORITHM 
+
+Enter No. of Processes: 4
+Arrival Time: 
+ P1: 0
+ P2: 2
+ P3: 4
+ P4: 5
+
+Burst Time: 
+ P1: 7
+ P2: 4
+ P3: 1
+ P4: 4
+
+Priority Number: 
+ P1: 1
+ P2: 2
+ P3: 3
+ P4: 4
+
+Classification(1-FP / 2-BP):
+ P1: 1
+ P2: 2
+ P3: 2
+ P4: 1
+
+Algorithm Choices: 
+ 1. FCFS
+ 2. SJF-P
+ 3. SJF-NP
+ 4. P-P
+ 5. P-NP
+ 6. RR
+
+Foreground Process: 4
+Background Process: 3
+
+Gantt Chart
+ +----------+--------+--+--------+
+ |    P1    |   P4   |P3|   P2   |
+ +----------+--------+--+--------+
+ 0          7       11 12       16
+
+Table
+ +-------+---------------+------------+
+ |PROCESS|TURNAROUND TIME|WAITING TIME|
+ +-------+---------------+------------+
+ |  P1   |       7       |      0     |
+ +-------+---------------+------------+
+ |  P2   |      14       |     10     |
+ +-------+---------------+------------+
+ |  P3   |       8       |      7     |
+ +-------+---------------+------------+
+ |  P4   |       6       |      2     |
+ +-------+---------------+------------+
+ | TOTAL |      35       |     19     |
+ +-------+---------------+------------+
+ |AVERAGE|     8.75      |    4.75    |
+ +-------+---------------+------------+

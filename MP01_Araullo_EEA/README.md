@@ -1,8 +1,7 @@
-# MP01 - FCFS
+# IT154-8L - Operating Systems Laboratory
+Under the class of William Rey, alias "net man"
 ***
-### Implement a First-Come First-Serve (FCFS) Algorithm with accompanying filestream capabilities
+## MP01: First Come First Serve (FCFS) Scheduling Algo
 
-Sample `MP01 Checker.txt`:<br/>
-4<br/>
-0 2 4 5<br/>
-7 4 1 4<br/>
+Came with a video for IP completion kasi nga namali ng compiler.
+100/100 DAPAT. Pero nagkamali ako kasi wrong compiler, anywho sureballs gumagana ito and na-grade ni sir matino naman walang kulang.
