@@ -1,11 +1,16 @@
-# IT154-8L
+# IT154-8L - Operating Systems Laboratory
 ***
-Under the class of Dr. William Rey
+Under the class of Dr. William Rey.
+This term has been a wild ride for sure.
 
-### *Updated* Prerequisites for Windows:
+### *Updated* Prerequisite for Windows:
 - Dev-C++
 
+Yes all you need is Dev-C++ to run this.
+**Note:** Sir is very particular with his instructions and I'm not sure how or why some got different results even with the same output. My hypothesis is that others "Appended" the output and didn't rewrite the TXT output file completely, removing the previous output. From my understanding, sir Rey wants to remove the previous output after every run and overwrite the TXT file. Your activity and instructions can and possibly will vary, so goodluck.
 
+
+***
 ## The section below is deprecated. It has a tendency not to work on Windows installs without the proper DLL.
 ### Prerequisites for Windows:
 - Install the [g++ compiler](https://sourceforge.net/projects/mingw/) or any compiler that can compile C++
