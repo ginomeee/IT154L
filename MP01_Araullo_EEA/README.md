@@ -8,6 +8,7 @@ Came with a video for IP completion kasi nga namali ng compiler.
 
 ***
 ## Instructions
+```
 PROBLEM STATEMENT:
 Create a console program that would simulate the First-Come First Serve CPU Scheduling Algorithm. Refer to the sample run below. Inputs should be fetched from a file. The output should be displayed on the screen and should be appended on the input file. Use only C++, Java, and Python.
 Use the attached file checker as source of input for testing purposes. Your program should not be limited to the values on the file checker. It should vary.
@@ -57,3 +58,5 @@ Submit the .rar file on the MPXX link.
 • – 80% (June 10)
 • – 70% (June 11)
 •Requirement Non-Compliance/Non-Submission - 0 
+
+```
